@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-##[Live Demo](https://flux-todo-app.herokuapp.com/)
+[Live Demo](https://flux-todo-app.herokuapp.com/)
+
+**Simply add items to a todo list**
 
 ## Install
 
